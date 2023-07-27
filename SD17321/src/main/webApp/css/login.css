@@ -1,0 +1,79 @@
+body{
+    background-image: url("https://img5.thuthuatphanmem.vn/uploads/2021/09/11/hinh-nen-powerpoint-chuyen-nghiep-cuc-dep_023659748.jpg");
+
+}
+
+.center {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+    height: 400px;
+    background-color: rgba(0, 0, 0, 0.4);
+    box-shadow: 0 0 5px;
+}
+
+#title {
+    margin-top: 30px;
+    color: rgb(205, 202, 202);
+    font-size: 28px;
+    text-align: center;
+}
+
+#username, #password {
+    width: 90%;
+    height: 50px;
+    color: rgb(205, 202, 202);
+    background-color: rgba(0, 0, 0, 0.0);
+    border: 1px solid rgb(205, 202, 202);
+    margin: 10px;
+    margin-left: 40px;
+}
+
+p{
+
+    text-align: center;
+}
+.input{
+
+    padding-top: 30px;
+
+}
+
+.text{
+    margin-top: -10px;
+}
+
+.link{
+    color:  rgb(205, 202, 202);
+}
+.a{
+    margin-left: 45px;
+}
+.b{
+    margin-left: 15px;
+}
+.check_box{
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+.text-remember{
+    color: rgb(205, 202, 202);
+}
+.remember{
+    margin-left: 52px;
+    line-height: 40px;
+}
+.text-link{
+    color: rgb(4, 155, 4);
+    font-weight: 600;
+}
+
+#button-login{
+    text-align: center;
+    margin-top: 10px;
+    width: 100px;
+    height: 35px;
+    font-weight: 700;
+}
